@@ -1,4 +1,4 @@
-all:run
+all: run
 
 run: smoke_test
 	./smoke_test
